@@ -1,0 +1,84 @@
+Playstation 4
+Sony
+400
+1
+1000
+`
+Playstation 5
+Sony
+700
+2
+180
+`
+44' LED TV
+Sony
+200
+3
+490
+`
+Stereo Speaker
+Sony
+50
+4
+500
+`
+DVD Player
+Sony
+50
+5
+1000
+`
+Vinyl Player
+Sony
+100
+6
+80
+`
+PEL Refridgerator
+PEL
+350
+7
+500
+`
+Galaxy S10
+Samsung
+400
+8
+2000
+`
+Nintendo Switch
+Nintendo
+500
+9
+950
+`
+Xbox One
+Microsoft
+400
+10
+1470
+`
+NVIDIA 1080Ti
+NVIDIA
+300
+11
+2000
+`
+Vinyl Player
+Panasonic
+300
+12
+150
+`
+DVD Player
+Panasonic
+70
+13
+500
+`
+Stereo Speaker
+Panasonic
+80
+14
+600
+`

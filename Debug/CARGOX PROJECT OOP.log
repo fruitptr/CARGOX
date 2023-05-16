@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\CARGOX Project OOP\CARGOX PROJECT OOP\Source.cpp(356,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CARGOX Project OOP\CARGOX PROJECT OOP\Source.cpp(492,18): warning C4018: '<': signed/unsigned mismatch
+E:\CARGOX Project OOP\CARGOX PROJECT OOP\Source.cpp(986,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CARGOX Project OOP\CARGOX PROJECT OOP\Source.cpp(1029,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CARGOX Project OOP\CARGOX PROJECT OOP\Source.cpp(1063,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CARGOX PROJECT OOP.vcxproj -> E:\CARGOX Project OOP\CARGOX PROJECT OOP\Debug\CARGOX PROJECT OOP.exe
