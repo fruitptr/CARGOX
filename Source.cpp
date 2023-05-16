@@ -1,3 +1,5 @@
+//VERSION 1.1
+
 #include <iostream>
 #include <time.h>
 #include <string>
